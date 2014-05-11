@@ -1,0 +1,16 @@
+
+
+public class Auto {
+
+	private Persona duenio;
+	private String patente;
+	
+	public Persona getDuenio(){
+	  return this.Duenio
+	}
+	
+	public void setDuenio(Persona aa){
+	  this.duenio = aa;
+	}
+	
+}
